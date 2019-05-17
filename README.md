@@ -4,6 +4,8 @@
 Made by Zenith, Sony Apps Enabler is a ported version of Sony devices' framework files for any Android device. This tricks Play Store into recognizing your Android as a Sony device and therefore, allowing you to install and update Sony devices specific apps directly from Play Store. 
 For more info, please check the [original thread here.](https://forum.xda-developers.com/android/software-hacking/mod-sony-apps-enabler-install-sony-apps-t3590477)
 
+This is just a remaster version that works with the last Magisk manager. It also has some extras.
+
 **By using this module, you're able to use the following Sony apps:**
    * Music
    * Album
