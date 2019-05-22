@@ -1,10 +1,10 @@
-### SONY FRAMEWORK REMASTER
+# SONY FRAMEWORK REMASTER
  
 ### Background:
 Made by Zenith, Sony Apps Enabler is a ported version of Sony devices' framework files for any Android device. This tricks Play Store into recognizing your Android as a Sony device and therefore, allowing you to install and update Sony devices specific apps directly from Play Store. 
-For more info, please check the [original thread here.](https://forum.xda-developers.com/android/software-hacking/mod-sony-apps-enabler-install-sony-apps-t3590477)
+For more info, please check the [original thread here](https://forum.xda-developers.com/android/software-hacking/mod-sony-apps-enabler-install-sony-apps-t3590477) and [the request thread here](https://forum.xda-developers.com/apps/magisk/request-sony-framework-magisk-19-1-t3926793)
 
-This is just a remaster version that works with the last Magisk manager. It also has some extras.
+This is just a remaster version that works with the last Magisk manager. It also has some extras, like Remote Play for PS4.
 
 **By using this module, you're able to use the following Sony apps:**
    * Music
